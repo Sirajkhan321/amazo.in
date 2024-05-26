@@ -1,1 +1,1 @@
-# amazo.in
+# amazon.in
